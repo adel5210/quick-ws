@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="quick-ws:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/quick_ws_jar</output-path>
+    <root id="archive" name="quick-ws.jar">
+      <element id="module-output" name="quick-ws" />
+    </root>
+  </artifact>
+</component>
